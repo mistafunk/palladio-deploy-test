@@ -1,8 +1,16 @@
 {
-  "enable": true,
-  "env": [
-    {
-      "PATH": "$HOUDINI_USER_PREF_DIR/packages/palladio"
-    }
-  ]
+    "packages": [
+        {
+            "name": "Palladio",
+            "display_name": "Palladio",
+            "url": "https://d199n7he4uszw5.cloudfront.net/download/download-build/96364/cdn/?Expires=1668959125&Signature=u8VpozjuhmaQlWPmjs8mXlAwP8Z8t1AskRSmNyNHtPToQPzMMtEAa3zvDXZGaIQKrfUoeQ7nWlvxG6HMk5CGFEgqhy4JMBcqUkRLyR2V2cixss7lpr4mXs2wZNMu4suuf357LqSegSh5DCNwSPnZd7iYkO0e3R8RhD5PVSYkcZovh93ZFlCWSe9rx4KaIsajLqX9AMYlst2g0IZ-62ZwAgQBOBh49mVcaLgJwsdKv1kqtGBQXp3uxYGO0hL~UGVTGXFDy5JqrxDz-PwftI7-YyuBaBkLKttJ0Cl~v4cUkDeRCyfyKx3VpLCIi-Ss4XJsWom4nk0mgLkvcOkI0mfKLQ__&Key-Pair-Id=APKAITRNKY64UW6MKIWQ",
+            "file_size": 120970490,
+            "installed_size": 203230010,
+            "checksum": "sha-256=01Gi5yn7UtHsJGkVetFnrzdFUS+2kLPXX+u+YBNsZm8=",
+            "content_type": "application/zip",
+            "version": "19.5.439",
+            "info_url": "https://www.sidefx.com/products/sidefx-labs/sidefx-labs-tools",
+            "description": "A testing ground for over 150 tools to help you get up and running quicker, developed by SideFX."
+        }
+    ]
 }
